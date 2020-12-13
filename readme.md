@@ -19,8 +19,6 @@
 - [Logros](#-logros)
 - [Encontraste un error o mejora?](#-encontraste-un-error-o-mejora)
 
-<<<<<<< HEAD
-
 ### 🔎 Cómo trabajar en este proyecto?
 
 El curso es totalmente práctico y progresivo. Este repositorio sólo existe como una guía para cuando lo necesites. Puedes realizar todo el curso en tu propio proyecto y tu propio repositorio.
@@ -80,8 +78,6 @@ git push mi-repo branch-a-hacer-push
 # Para pull
 git pull mi-repo branch-a-hacer-push
 ```
-
-=======
 
 1. Creación del proyecto
 1. Agrego una ruta básica
